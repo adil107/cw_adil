@@ -1,0 +1,18 @@
+.css-tccdxk {
+  gap: 10px !important;
+justify-content: space-between;
+}
+
+.css-1tq8nf4-MuiFormControl-root-MuiTextField-root input {
+  padding: 15px;
+  /* height: 24px !important; */
+}
+
+@media (max-width: 580px) {
+  .css-1tq8nf4-MuiFormControl-root-MuiTextField-root input {
+
+    height: 24px !important;
+    /* width: 24px !important; */
+    padding: 10px;
+  }
+}
